@@ -5,7 +5,11 @@ VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{353FE7A5-E1F4-4C49-87E7-AEB3F5620A6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.UhalovAK.Sprint0.Task0.V0.", "Tyuiu.UhalovAK.Sprint0.Task0.V0\Tyuiu.UhalovAK.Sprint0.Task0.V0..csproj", "{1865916F-4307-4158-9F67-84DC34A9FD5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.UhalovAK.Sprint0.Task0.V0.", "Tyuiu.UhalovAK.Sprint0.Task0.V0\Tyuiu.UhalovAK.Sprint0.Task0.V0..csproj", "{1865916F-4307-4158-9F67-84DC34A9FD5D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{C8F089EC-BB82-4B24-A55D-FAD59769BA99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.UhalovAK.Sprint0.Task1.V0", "Tyuiu.UhalovAK.Sprint0.Task1.V0\Tyuiu.UhalovAK.Sprint0.Task1.V0.csproj", "{9D301F93-0C72-4BF9-89EA-AAF0E7E79D4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{1865916F-4307-4158-9F67-84DC34A9FD5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1865916F-4307-4158-9F67-84DC34A9FD5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1865916F-4307-4158-9F67-84DC34A9FD5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D301F93-0C72-4BF9-89EA-AAF0E7E79D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D301F93-0C72-4BF9-89EA-AAF0E7E79D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D301F93-0C72-4BF9-89EA-AAF0E7E79D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D301F93-0C72-4BF9-89EA-AAF0E7E79D4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{1865916F-4307-4158-9F67-84DC34A9FD5D} = {353FE7A5-E1F4-4C49-87E7-AEB3F5620A6A}
+		{9D301F93-0C72-4BF9-89EA-AAF0E7E79D4B} = {C8F089EC-BB82-4B24-A55D-FAD59769BA99}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {36101FAB-27E4-4079-8D71-78BBB1665763}
